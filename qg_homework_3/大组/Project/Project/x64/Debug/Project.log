@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\59745\source\repos\Project\Project\main.c(26,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\59745\source\repos\Project\Project\main.c(32,15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project.vcxproj -> C:\Users\59745\source\repos\Project\x64\Debug\Project.exe
